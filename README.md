@@ -5,9 +5,13 @@ The objective of this project is to predict customer churn, i.e., whether a cust
 # Libraries Used:
 
 pandas: Data manipulation and analysis
+
 numpy: Numerical computations
+
 matplotlib: Data visualization
+
 seaborn: Statistical data visualization
+
 sklearn:
 → Model building and evaluation (Logistic Regression, Decision Tree, Random Forest, etc.)
 → Preprocessing (Label Encoding, One-Hot Encoding, StandardScaler)
